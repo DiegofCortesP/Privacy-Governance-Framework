@@ -1,30 +1,46 @@
 # NIST CSF & ISO 27001 Security Assessment
 
-## Overview
+## Business Problem
 
-Security assessment performed for a customs agency.
-
-Frameworks used:
-
-- NIST Cybersecurity Framework
-- ISO 27001
+The organization did not have a formal understanding of its cybersecurity maturity, critical risks or security gaps.
 
 ## Objective
 
-Evaluate the organization's cybersecurity posture and identify security gaps.
+Evaluate the security posture of the organization using:
 
-## Main Areas Reviewed
+- NIST Cybersecurity Framework
+- ISO/IEC 27001
 
-- Governance
-- Access Management
-- Incident Response
-- Monitoring
-- Recovery
-- Risk Management
+## Assessment Areas
 
-## Result
+### Identify
+- Asset visibility
+- Risk management
+- Critical systems
 
-Security roadmap and maturity assessment created.
+### Protect
+- Access management
+- Security awareness
+- Patch management
+
+### Detect
+- Security monitoring
+- Event analysis
+
+### Respond
+- Incident response planning
+
+### Recover
+- Business continuity
+- Recovery planning
+
+## Key Findings
+
+- Lack of formal risk management
+- Weak identity lifecycle management
+- Limited monitoring capabilities
+- Outdated incident response planning
+- ERP dependency risks
 
 ## Skills Developed
 
@@ -34,3 +50,7 @@ Security roadmap and maturity assessment created.
 - NIST CSF Mapping
 - ISO 27001 Analysis
 - Security Roadmapping
+
+## Outcome
+
+Development of a cybersecurity improvement roadmap aligned with NIST CSF.
