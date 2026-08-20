@@ -1,106 +1,72 @@
-#### **# Data Protection Compliance Framework**
+# Privacy Governance Framework
 
+Governance, Risk and Compliance (GRC) portfolio focused on cybersecurity governance, privacy management and regulatory compliance.
 
+---
 
-Privacy governance and compliance framework based on Chilean data protection regulations.
+## About This Portfolio
 
+This repository contains professional projects related to:
 
+- Information Security Governance
+- Privacy Governance
+- Data Protection Compliance
+- ISO 27001
+- NIST Cybersecurity Framework
+- Risk Management
+- Regulatory Compliance
 
-#### **## Project Scope**
+The projects were developed as part of real-world governance and compliance initiatives within a customs agency environment.
 
+---
 
+# Professional Projects
 
-\- Data Protection Officer Governance
+## Project 01
+### NIST CSF & ISO 27001 Security Assessment
 
-\- Roles and Responsibilities Matrix
+Security assessment focused on identifying cybersecurity gaps, evaluating maturity levels and defining a security improvement roadmap.
 
-\- Privacy Policy Framework
+Key Areas:
+- Governance
+- Risk Management
+- Incident Response
+- Business Continuity
+- Identity and Access Management
 
-\- Personal Data Inventory
+---
 
-\- Records of Processing Activities (ROPA/RAT)
+## Project 02
+### Law 21.719 Privacy Governance Program
 
-\- Data Subject Rights Management
+Implementation of a data protection and privacy compliance framework based on Chilean Law No. 21.719.
 
-\- Security Incident Management
+Key Areas:
+- Privacy Governance
+- Data Inventory
+- ROPA / RAT
+- Legal Basis Mapping
+- Data Subject Rights
+- Incident Management
+- Data Processor Register
+- Data Transfer Register
+- Retention Framework
+- Accountability Model
 
-\- Evidence and Documentation Controls
+---
 
+## Technologies & Frameworks
 
+- NIST Cybersecurity Framework
+- ISO/IEC 27001
+- Privacy Governance
+- Risk Management
+- Compliance Frameworks
+- Microsoft 365 Governance
 
-#### **## Deliverables**
+---
 
+## Disclaimer
 
-
-\- Governance Framework
-
-\- Privacy Policy Templates
-
-\- Personal Data Inventory Template
-
-\- Record of Processing Activities Template
-
-\- Legal Basis Matrix Template
-
-\- Data Subject Rights Procedure
-
-\- Incident Response Procedure
-
-
-
-#### **## Disclaimer**
-
-
-
-This repository contains fictional and anonymized examples for educational and professional portfolio purposes only.
-
-
-
-
-
-#### **Privacy-Governance-Framework**
-
-Privacy governance and compliance framework based on Chilean data protection regulations.
-
-
-
-#### **Project Scope**
-
-Data Protection Officer Governance
-
-Roles and Responsibilities Matrix
-
-Privacy Policy Framework
-
-Personal Data Inventory
-
-Records of Processing Activities (ROPA/RAT)
-
-Data Subject Rights Management
-
-Security Incident Management
-
-Evidence and Documentation Controls
-
-Deliverables
-
-Governance Framework
-
-Privacy Policy Templates
-
-Personal Data Inventory Template
-
-Record of Processing Activities Template
-
-Legal Basis Matrix Template
-
-Data Subject Rights Procedure
-
-Incident Response Procedure
-
-###### 
-
-###### **Disclaimer**
-
-This repository contains fictional and anonymized examples for educational and professional portfolio purposes only.
+All examples and documentation included in this repository are anonymized and intended solely for educational and professional portfolio purposes.
 
