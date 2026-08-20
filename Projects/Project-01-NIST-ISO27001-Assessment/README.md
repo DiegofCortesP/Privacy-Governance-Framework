@@ -25,3 +25,12 @@ Evaluate the organization's cybersecurity posture and identify security gaps.
 ## Result
 
 Security roadmap and maturity assessment created.
+
+## Skills Developed
+
+- Security Assessments
+- Risk Identification
+- Security Governance
+- NIST CSF Mapping
+- ISO 27001 Analysis
+- Security Roadmapping
