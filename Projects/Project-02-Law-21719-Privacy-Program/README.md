@@ -67,3 +67,13 @@ Privacy compliance framework implemented and mapped against:
 - Processor and transfer records documented
 - Retention framework implemented
 - Compliance traceability matrix developed
+
+## Skills Developed
+
+- Privacy Governance
+- Regulatory Compliance
+- Data Inventory Management
+- ROPA/RAT Development
+- Privacy Documentation
+- Accountability Framework Design
+- Data Protection Program Implementation
